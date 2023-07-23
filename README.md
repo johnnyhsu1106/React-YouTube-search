@@ -3,7 +3,6 @@
 Before you run this web app, please apply for API KEY and copy-and-paste on index.js
 There is a variable called API_KEY <br>
 Get the API KEY from you YouTube Data API v3
-https://console.developers.google.com
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 ```
